@@ -6,7 +6,7 @@ The example site is about Casper, my rescue cat.
 
 ## Live site
 
-GitHub Pages URL: https://rcgottlieb/odin-training-site/
+GitHub Pages URL: [https://rcgottlieb/odin-training-site/](https://rcgottlieb.github.io/odin-training-site/)
 
 ## Training notes
 
