@@ -1,0 +1,6 @@
+{
+    "UserId": "AIDA2FVEVBVAVMHJDMT2E",
+    "Account": "699351240001",
+    "Arn": "arn:aws:iam::699351240001:user/cg/stale.key.rotator"
+}
+
